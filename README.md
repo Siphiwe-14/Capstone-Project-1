@@ -19,3 +19,8 @@ Repository Structure
 Final Model
 
 The final model was an LSTM neural network for its capability also in training time dependent patterns in the forex data. Important observations with regards to the model: The model was trained and tested using historical forex data, and was market ready; it was capable of providing forecasts, within short horizons, on currency prices for trading purposes.
+
+
+All the csv files are the data i used throughout the project
+
+
